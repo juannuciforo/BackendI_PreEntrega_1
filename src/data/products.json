@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Galaxy S23",
+    "description": "Teléfono Samsung último modelo con 256GB de almacenamiento",
+    "code": "SAMS23256",
+    "price": 999.99,
+    "status": true,
+    "stock": 15,
+    "category": "Electrónica",
+    "thumbnails": [
+      "galaxy-s23-1.jpg",
+      "galaxy-s23-2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Zapatillas Nike Air Max",
+    "description": "Zapatillas deportivas con tecnología de amortiguación Air",
+    "code": "NKAM2024",
+    "price": 129.99,
+    "status": true,
+    "stock": 25,
+    "category": "Calzado",
+    "thumbnails": [
+      "nike-airmax-blue.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro M2",
+    "description": "Laptop Apple con chip M2, 512GB SSD y 16GB RAM",
+    "code": "APPM2512",
+    "price": 1499.99,
+    "status": true,
+    "stock": 8,
+    "category": "Electrónica",
+    "thumbnails": [
+      "macbook-m2-1.jpg",
+      "macbook-m2-2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cafetera Nespresso",
+    "description": "Cafetera automática compatible con cápsulas Nespresso",
+    "code": "NSCFE01",
+    "price": 199.99,
+    "status": true,
+    "stock": 20,
+    "category": "Electrodomésticos",
+    "thumbnails": [
+      "nespresso-black.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Monitor Gaming 27'",
+    "description": "Monitor gaming 144Hz, 2K, 1ms respuesta",
+    "code": "MON27144",
+    "price": 299.99,
+    "status": true,
+    "stock": 12,
+    "category": "Gaming",
+    "thumbnails": [
+      "monitor-gaming-1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro M3",
+    "description": "La última MacBook Pro con chip M3, 1TB SSD y 32GB RAM. (Agregada desde Postman como prueba)",
+    "code": "APPM3-32",
+    "price": 2499.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "macbook-m3-1.jpg",
+      "macbook-m3-2.jpg"
+    ]
+  }
+]
